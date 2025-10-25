@@ -1,0 +1,86 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+Recordings/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+# Uncomment if you have custom rules for assets
+#*.asset
+
+# ========================= #
+# Visual Studio / JetBrains #
+# ========================= #
+.vs/
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.dll
+*.exe
+*.pdf
+*.mdb
+*.opendb
+*.VC.db
+*.pdb
+
+# ============ #
+# Build output #
+# ============ #
+*.apk
+*.aab
+*.unitypackage
+
+# ===================== #
+# OS generated files    #
+# ===================== #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# =========== #
+# Crash dumps #
+# =========== #
+sysinfo.txt
+*.stacktrace
+
+# ================= #
+# Rider / JetBrains #
+# ================= #
+.idea/
+*.DotSettings.user
+
+# ================= #
+# Addressables Data #
+# ================= #
+/Assets/AddressableAssetsData/*/*.bin*
+/Assets/AddressableAssetsData/*/*.hash
+/Assets/AddressableAssetsData/*/*.json
+
+# ================= #
+# Collaborate files #
+# ================= #
+*.collabignore
+*.collabmeta
+
+# ================= #
+# Burst / Cache etc #
+# ================= #
+[Bb]urstCache/
+Cache/
